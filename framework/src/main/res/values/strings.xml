@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">framework</string>
+    <string name="press_exit_hint">Press again to exit</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+
+    <string name="No_Internet">No internet connection detected. Please check your network and try again!</string>
+
+</resources>

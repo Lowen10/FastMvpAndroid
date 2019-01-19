@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FastAndroidDemo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- Login -->
+    <string name="login_text">Sign in</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_error_message">username or password is empty.</string>
+
+</resources>

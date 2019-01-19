@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">>
+    <string name="press_exit_hint">Press again to exit</string>
+    /* Cancel */
+    <string name="cancel">ANNULER</string>
+    <string name="ok">OK</string>
+
+    <string name="No_Internet">Pas de connexion internet. Veuillez vérifier votre connexion et réessayer.</string>
+</resources>

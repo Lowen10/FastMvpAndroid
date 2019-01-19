@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">>
+    <string name="press_exit_hint">再次点击以退出程序</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="No_Internet">网络无法连接，请检查您的网络设置</string>
+
+</resources>
+

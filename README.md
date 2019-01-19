@@ -1,2 +1,6 @@
-# FastMvpAndroid
-Android快速开发框架，目的是让开发者把精力集中到业务开发，不再为HTTP请求，代码框架等而过多耗费时间
+# FastAndroid
+
+#### 项目介绍
+Dagger2+RxJava2+Retrofit2 MVP开发框架
+
+目前是只是Base版本，已经支持基本的MVP开发，且在项目上实战，后期持续更新
